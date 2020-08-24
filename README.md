@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+
 # 🛫Flutter Travel App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Flutter representation of a Travel App Concept i found in Uplabs. 
@@ -33,15 +33,8 @@ To toggle the theme, change the `isDark` variable in `main.dart`.
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide**
+**Sohanuzzaman Soad**
 
-## ☕️  Donate
-
-Buy me a cup of Coffee😁
-
-| Mode | Link/Wallet|
-| ------| ------------|
-| Bitcoin | 3GrziPW6Gz6S5mXo2EsiYpafW8vXVq5Rbv|
 
 ## Getting Started
 
@@ -55,7 +48,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-
-
-## LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
